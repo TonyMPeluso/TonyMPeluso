@@ -6,17 +6,12 @@ I build analytical tools that help utilities evaluate distribution system impact
 
 🔧 Technical Skills
 
-Energy Systems Modeling: EV charging behavior, transformer aging (IEC/IEEE), LP optimization, load forecasting
-
-Analytics & Simulation: Monte Carlo, microsimulation, stochastic process modeling
-
-Dashboards: Shiny (Python/R), Plotly, data visualization
-
-Python: pandas, numpy, scipy, PuLP, matplotlib
-
-Data: GIS, census analysis, CSV/XLS processing
-
-Other: R (Shiny), SQL, Git/GitHub
+* Energy Systems Modeling: EV charging behavior, transformer aging (IEC/IEEE), LP optimization, load forecasting
+* Analytics & Simulation: Monte Carlo, microsimulation, stochastic process modeling
+* Dashboards: Shiny (Python/R), Plotly, data visualization
+* Python: pandas, numpy, scipy, PuLP, matplotlib
+* Data: GIS, census analysis, CSV/XLS processing
+* Other: R (Shiny), SQL, Git/GitHub
 
 📊 Featured Projects
 🔥 Transformer Thermal Aging Simulator
