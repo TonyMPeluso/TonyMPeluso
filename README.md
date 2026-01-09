@@ -6,29 +6,34 @@ I build analytical tools that help utilities and public agencies evaluate electr
 
 ### 🔧 Technical Profile
 
-** Energy Modeling & Simulation**
+** Energy Modeling & Simulation **
 
 * Distribution system planning under electrification (EVs, heat pumps)
 * Transformer thermal aging (IEC/IEEE C57.91)
 * Monte Carlo & stochastic load modeling
 * Linear programming (investment + dispatch models)
 
-** Dashboards & Visualization**
+** Dashboards & Visualization **
 
 * Shiny for Python, R Shiny, Plotly, leaflet
 * Dynamic UI/UX for planners, regulators, and stakeholders
 
-** Programming & Tools**
+** Programming & Tools **
 
 * Python (pandas, numpy, PuLP, matplotlib)
 * R (tidyverse, ggplot2, sf, cancensus)
 * SQL, Git/GitHub, GIS
 
-** Climate & Financial Risk**
+** Climate & Financial Risk **
 
 * TCFD-aligned climate vulnerability mapping (multi-hazard index)
 * Extreme value theory (Hill estimator, EVT-based VaR/ES)
 * Investment prioritization & marginal abatement cost analysis
+
+** Quantitative Methods **
+* Machine learning
+* Time-series modelling
+* Mathematical optimization
 
 ---
 
