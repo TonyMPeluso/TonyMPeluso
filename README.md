@@ -39,7 +39,7 @@ I build analytical tools that help utilities and public agencies evaluate electr
 
 ### 📊 Featured Projects
 
-#### 🔹 **Investment Optimization Dashboard**
+#### 🔹 Investment Optimization Dashboard
 
 ** Live App:** [View Dashboard](https://tonympeluso.shinyapps.io/investment_dashboard/)
 
@@ -50,7 +50,7 @@ Shiny for Python app for utility-scale capacity planning and hourly dispatch. Co
 * Proxy LCOE & marginal abatement curves
 * Scenario-driven planning tool for utilities, consultants, and regulators
 
-#### 🔹 **Feeder-Level Winter Peak Microsimulation**
+#### 🔹 Feeder-Level Winter Peak Microsimulation
 
 ** Live App:** [View Dashboard](https://tonympeluso.shinyapps.io/feeder_microsimulation/)
 
@@ -60,7 +60,7 @@ Bottom-up microsimulation for winter peak load analysis under heat-pump adoption
 * Feeder-level overload probabilities
 * Household-level energy and bill impacts
 
-#### 🔹 **Transformer EV Load Dashboard**
+#### 🔹 Transformer EV Load Dashboard
 
 ** Live App:** [View Dashboard](https://tonympeluso.shinyapps.io/ZEV_CT_Forecast_Simulator_Tor/)
 
@@ -70,7 +70,7 @@ Interactive R Shiny dashboard modeling ZEV adoption, charging behavior, and tran
 * Charging mix controls (Level 1 vs 2, evening behavior)
 * Planning tool for municipalities and utilities
 
-#### 🔹 **Transformer Thermal Aging Simulator**
+#### 🔹 Transformer Thermal Aging Simulator
 
 Reliability modeling for distribution transformers using stochastic EV + heating loads. Implements IEC/IEEE C57.91 to estimate:
 
@@ -89,7 +89,7 @@ Composite multi-hazard vulnerability dashboard for infrastructure assets. Based 
 * Vulnerability index builder + downloadable data
 * Scenario support: 2020, 2030, 2050, 2080
 
-#### 🔹 ** Financial Risk Dashboard (Extreme Value)**
+#### 🔹 Financial Risk Dashboard (Extreme Value)
 
 Dashboard using extreme value theory to compute:
 
