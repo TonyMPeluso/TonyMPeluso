@@ -81,7 +81,7 @@ Reliability modeling for distribution transformers using stochastic EV + heating
 
 Includes Shiny dashboard for scenario visualization.
 
-#### 🔹 ** Climate Infrastructure Risk Explorer**
+#### 🔹 Climate Infrastructure Risk Explorer
 
 Composite multi-hazard vulnerability dashboard for infrastructure assets. Based on climate exposure, sensitivity, and criticality.
 
